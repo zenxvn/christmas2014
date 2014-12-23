@@ -30,6 +30,17 @@ var myPlaylist = [
         duration:'0:30',
         cover:'mix/1.png'
     },
+     {
+        mp3:'http://api.mp3.zing.vn/api/mobile/download/song/LGJGTLGNAQLQGELTLDJTDGLG',
+        oga:'mix/1.ogg',
+        title:'Sample',
+        artist:'Sample',
+        rating:4,
+        buy:'#',
+        price:'0.99',
+        duration:'0:30',
+        cover:'mix/1.png'
+    },
     {
         mp3:' http://api.mp3.zing.vn/api/mobile/download/song/LGJGTLAXLEJJTLDJTDGLG',
         oga:'mix/1.ogg',
